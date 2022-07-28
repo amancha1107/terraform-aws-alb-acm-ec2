@@ -2,7 +2,18 @@
 
 ![image](https://user-images.githubusercontent.com/66196388/181624674-53e37858-cc4c-457c-84bb-0cf32a9eb8f8.png)
 
-- open terraform.tfvars file and add keys,public domain name,sub domain record
+## How to use this Repo?:-
+
+![image](https://user-images.githubusercontent.com/66196388/181627882-a3ef8b1a-5392-4209-8027-e08a9e35d86c.png)
+
+
+- open terraform.tfvars file and enter those values
+
+- run terraform init
+
+- terraform plan
+
+- terraform apply
 
 ## Prerequisite #1: AWS Credentials:-
 
