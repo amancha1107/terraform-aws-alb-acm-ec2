@@ -4,7 +4,7 @@
 
 ## How to use this Repo?:-
 
-![image](https://user-images.githubusercontent.com/66196388/181627882-a3ef8b1a-5392-4209-8027-e08a9e35d86c.png)
+![image](https://user-images.githubusercontent.com/66196388/181628482-df89ff3a-b64a-441d-ac8b-7f6dd91d8712.png)
 
 
 - open terraform.tfvars file and enter those values
